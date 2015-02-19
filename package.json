@@ -1,6 +1,6 @@
 {
   "name": "simple-number-formatter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Format number to string by pattern",
   "license": "MIT",
   "repository": "Semigradsky/simple-number-formatter",
